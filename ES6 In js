@@ -1,0 +1,5 @@
+What are classes in ES6
+	classes are templates for creating objects. They help you define 
+	the structure and behavior of objects in a more organized way. 
+	To define a class, you use the class keyword, 
+	and inside the class, you can add properties and methods.
